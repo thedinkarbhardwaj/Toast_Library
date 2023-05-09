@@ -10,10 +10,9 @@ allprojects {
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}```
-
-
-Step 2. Add the dependency
+	}
+	```
+> Step 2. Add the dependency
 
 dependencies {
 	        implementation 'com.github.thedinkarbhardwaj:Toast_Library:Tag'
